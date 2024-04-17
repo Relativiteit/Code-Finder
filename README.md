@@ -1,4 +1,4 @@
-Rebuild entire proejct timeline does not make sense after loosing core files :(
+TODO rebuild in typescript maybe something weird with Rust or Golang?
 
 # Github Finder
 
